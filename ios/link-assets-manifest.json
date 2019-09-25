@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/.DS_Store",
+      "sha1": "df2fbeb1400acda0909a32c1cf6bf492f1121e07"
+    },
+    {
+      "path": "assets/fonts/Muli-Bold.ttf",
+      "sha1": "441737a8fff723f6135ec9e08f70d196425b8e91"
+    },
+    {
+      "path": "assets/fonts/Muli-Light.ttf",
+      "sha1": "5034499f59dfb208949811225ead2ca2298ab2c6"
+    },
+    {
+      "path": "assets/fonts/Muli-Regular.ttf",
+      "sha1": "6443d5fe2c0a71ea81dfc8f31814945ff94abf4e"
+    },
+    {
+      "path": "assets/fonts/Muli-RegularItalic.ttf",
+      "sha1": "f54f1088c244257733ae0cf59248d25300802741"
+    }
+  ]
+}
